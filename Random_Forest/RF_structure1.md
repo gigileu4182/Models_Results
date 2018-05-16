@@ -16,8 +16,22 @@ After generation, the random forest model can be applied to new Examples using t
 
 (Extremely randomized trees are a method similar to random forest, which can be obtained by checking the split random parameter and disabling pruning. Important parameters to tune for this method are the minimal leaf size and split ratio, which can be changed after disabling guess split ratio. Good default choices for the minimal leaf size are 2 for classification and 5 for regression problems.)
 
+https://deeplearning4j.org/random-forest.html
+Random forests are made of many decision trees. They are ensembles of decision trees, each decision tree created by using a subset of the attributes used to classify a given population (they are sub-trees, see above). Those decision trees vote on how to classify a given instance of input data, and the random forest bootstraps those votes to choose the best prediction. This is done to prevent overfitting, a common flaw of decision trees.
+
+A random forest is a supervised classification algorithm. It creates a forest (many decision trees) and orders their nodes and splits randomly. The more trees in the forest, the better the results it can produce.
+
+If you input a training dataset with targets and features into the decision tree, it will formulate some set of rules that can be used to perform predictions.
+
+Example: You want to predict whether a visitor to your e-commerce Web site will enjoy a mystery novel. First, collect information about past books they’ve read and liked. Metadata about the novels will be the input; e.g. number of pages, author, publication date, which series it’s part of if any. The decision tree contains rules that apply to those features; for example, some readers like very long books and some don’t. Inputting metadata about new novels will result in a prediction regarding whether or not the Web site visitor in question would like that novel. Arranging the nodes and defining the rules relies on information gain and Gini-index calculations. With random forests, finding the root node and splitting the feature nodes is done randomly.
 
 
+- key words: decision trees, 
+
+1. random forest is a adapation of machine learning algorithm based on machine learning. rf improves overfitting? rf aggregates (bootstrap aggregation), so that the result is more accurate??? rf is exempt from multi-collinearilty and endogneity problems?
+1.1
+1.2
+1.3
 
 ### RF brief introductions.
 
