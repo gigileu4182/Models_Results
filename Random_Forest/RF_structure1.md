@@ -1,35 +1,39 @@
+
+1. rf is in econometrics (ok)
+2. rf works in this way ()
+ * what is decision tree.
+ * in rf, we select a random subsets of predictors to form decision trees by bootstrap, and we aggregate the result.
+ * how to get the output?
+3. what is variable importance / feature selection, and how to obtain it?
+4. advantages - rf is better than traditional econ methods in these aspects.. 
+5. our process.
+
 ## my result writing
 
-- say that RF is already used in econometrics.
+1. say that RF is already used in econometrics.
 
-:smile: Random forest (Dietterich, 2000; Breiman, 2001) is a machine learning algorithm, which begins to receive more and more attention in econometrics, for example, in GDP forecasting and poverty predictions (see, e.g., Otok and Seftiana (2014), Thoplan (2014), Sohnesen and Stender (2016)). 
+Random Forest (Dietterich, 2000; Breiman, 2001) has received increasing attention in econometrics, for example, in GDP forecasting and poverty predictions (see, e.g., Otok and Seftiana (2014), Thoplan (2014)). Another important application is to rank the importance of features in regression and classification tasks (variable selection method). 
 
-- RF works in this way...  and examples of RF in our context.
+2. RF works in this way...  and examples of RF in our context.
 
-The basic idea of random forest is decision tree, which uses a set of observed predictors to recursively partition the data until the values of the dependent variable become homogeneous with each sub-partition. 
-Random forest is an ensemble of decision trees. Each decision tree is created by using a subset of the attributes used to classify a given population. Those decision trees vote on how to classify a given instance of input data, and the random forest bootstraps those votes to choose the best prediction. 
+Decision tree is the core of Random forest. In Decision trees, a set of observed predictors is used to recursively partition the data, and the goal of a decision tree is to determine branches that reduce the residual sums of squares the most, and provide the most predictive leaves as possible.
 
-It creates a forest (many decision trees) and orders their nodes and splits randomly. The more trees in the forest, the better the results it can produce. 
+A vanilla random forest is an ensemble of decision trees, i.e., whereby an additional algorithm takes a random sample of m predictors at each split. 
 
-Each node of a tree represents a splitting rule for one specific Attribute. 
-Only a sub-set of Attributes, specified with the subset ratio criterion, is considered for the splitting rule selection. 
-This rule separates values in an optimal way for the selected parameter criterion. 
-For classification the rule is separating values belonging to different classes, while for regression it separates them in order to reduce the error made by the estimation. The building of new nodes is repeated until the stopping criteria are met.
-
-Each random tree generates a prediction for each Example by following the branches of the tree in accordance to the splitting rules and evaluating the leaf. Class predictions are based on the majority of Examples, while estimations are obtained through the average of values reaching a leaf. The resulting model is a voting model of all created random trees. Since all single predictions are considered equally important, and are based on sub-sets of Examples the resulting prediction tends to vary less than the single predictions.
+Each random tree generates a prediction for each Example by following the branches of the tree in accordance to the splitting rules and evaluating the leaf. Class predictions are based on the majority of Examples, while estimations are obtained through the average of values reaching a leaf. The resulting model is a voting model of all created random trees. 
 
 
-
-- advantages over econometric methods. Random forest have several advantages over econometric models.
+4. advantages over econometric methods. Random forest has several advantages over econometric models.
   * The great pros of Random Forests are that the effects of  heteroscedasticity, outliers, and other data anomalies are reduced due to the large amount of individual tree learners and majority voting (Breiman, 2011).
-  * The  algorithm provides unbiased estimates of model generalization error.
+  * The algorithm provides unbiased estimates of model generalization error.
   * Detect nonlinear relationships and good works with the high dimensional datasets (Siroky, 2009). 
 
-- steps that we take.
+5. steps that we take.
+
 
 - results we get..
 
-Moreover, this approach is also used to rank the importance of variables/classifier in regression and classification tasks (variable selection method). 
+
 
 
 ## my interview writing..
@@ -48,6 +52,7 @@ Moreover, this approach is also used to rank the importance of variables/classif
 [random forest econometrics advantages](http://qetartu.blogspot.jp/2016/12/applied-econometrics-statistical.html)
 
 [Description](https://docs.rapidminer.com/latest/studio/operators/modeling/predictive/trees/parallel_random_forest.html)
+
 A random forest is an ensemble of a certain number of random trees, specified by the number of trees parameter. 
 These trees are created/trained on bootstrapped sub-sets of the ExampleSet provided at the Input Port. 
 Each node of a tree represents a splitting rule for one specific Attribute. 
@@ -82,4 +87,6 @@ Example: You want to predict whether a visitor to your e-commerce Web site will 
 
 
 
-### 
+--------------
+### References
+https://towardsdatascience.com/seeing-the-random-forest-from-the-decision-trees-an-intuitive-explanation-of-random-forest-beaa2d6a0d80
