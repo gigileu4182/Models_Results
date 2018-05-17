@@ -1,3 +1,18 @@
+## my result writing
+
+
+
+
+
+## my interview writing..
+
+-----------
+
+
+## information drafts below
+----------- 
+
+
 
 
 ### RF advantages. 
