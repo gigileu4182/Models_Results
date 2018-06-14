@@ -14,3 +14,7 @@
   - can not predict at places where there is no data.
   - smooth coefficient (in particular becomes model with interaction terms), different from random coeffcient (the parameter change comes from randomness)
 5. sample selection?
+
+
+statistical modelling mood..
+constrained regression..
