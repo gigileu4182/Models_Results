@@ -1,6 +1,6 @@
 # Models_Results
 
-## my modelling thought:
+## 计量，统计，my modelling thought:
 
 0. 
 1. discrete/continuous
@@ -14,7 +14,12 @@
   - can not predict at places where there is no data.
   - smooth coefficient (in particular becomes model with interaction terms), different from random coeffcient (the parameter change comes from randomness)
 5. sample selection?
-
+6. outliers? matching, discrete/continuous
 
 statistical modelling mood..
 constrained regression..
+
+
+模型2：
+为什么有时会空白？没有预期，调出模型。
+场景（）
