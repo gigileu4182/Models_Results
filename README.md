@@ -23,3 +23,9 @@ constrained regression..
 模型2：
 为什么有时会空白？没有预期，调出模型。
 场景（）
+
+#### 新的计量模型探索：
+- quantile regression
+- interval regression
+- (symbolic data analysis) Constrained linear regression models for symbolic interval-valued variables 
+- hmm
