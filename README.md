@@ -1,5 +1,10 @@
 # Models_Results
 
+
+- random coefficient ... 
+  - interaction == coefficient depends upon other variables == heterogeneity.
+  - 
+
 ## 计量，统计，my modelling thought:
 
 0. 
