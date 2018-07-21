@@ -34,3 +34,11 @@ constrained regression..
 - interval regression
 - (symbolic data analysis) Constrained linear regression models for symbolic interval-valued variables 
 - hmm
+
+#### others
+
+* econometrics assumptions of the independent variables
+  * https://www.albert.io/blog/key-assumptions-of-ols-econometrics-review/
+* control variable econometrics
+  * control the effect from other than the main variable.
+    * https://www.quora.com/What-are-control-variables-and-how-do-I-use-them-in-regression-analysis
