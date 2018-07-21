@@ -42,3 +42,5 @@ constrained regression..
 * control variable econometrics
   * control the effect from other than the main variable.
     * https://www.quora.com/What-are-control-variables-and-how-do-I-use-them-in-regression-analysis
+  * so we put it there, and if its coefficient be significant, then it is legitimate? because otherwise the assumptions on epsilon (random sampling of individuals/instances) will be incorrect. (female-male height example)
+  
