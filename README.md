@@ -7,6 +7,8 @@
 
 捉关键term，关系，顺序。
 
+**共性**。
+
 # Models_Results
 
 
