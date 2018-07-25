@@ -1,3 +1,12 @@
+## 原则
+
+问题?和**预期**不符，度degree，质quality
+
+单变量 - 异质性 degree of heterogeneity
+多变量 - the type of relation? for each type of relation, its degree? heterogeneity?
+
+捉关键term，关系，顺序。
+
 # Models_Results
 
 
