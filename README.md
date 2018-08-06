@@ -1,9 +1,15 @@
 ## 原则
 
-问题?和**预期**不符，度degree，质quality
+问题?和**预期**不符，
+- weak correlation, why? 度degree，质quality
 
-单变量 - 异质性 degree of heterogeneity
-多变量 - the type of relation? for each type of relation, its degree? heterogeneity?
+- 单变量 - (异质性 degree of heterogeneity) 
+  == **conditional** quantile.. heterogeneity
+  == distribution (3 moments), why so intensive? why different?
+
+- 多变量 - the type of relation? for each type of relation, its degree? heterogeneity?
+  - conditional relationship
+  - correlations
 
 捉关键term，关系，顺序。
 
