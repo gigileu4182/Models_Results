@@ -1,6 +1,6 @@
 ## 原则
 
-问题?和**预期**不符，
+问题?和**预期**不符，outliers?
 - weak correlation, why? 度degree，质quality
 
 - 单变量 - (异质性 degree of heterogeneity) 
