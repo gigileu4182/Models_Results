@@ -15,6 +15,14 @@
 
 **共性**。
 
+reference 即 given？每个instance，所属的class里都有attributes and methods. these attributes and methods are correlated with those attributes and methods in other classes. 这些共性有多有少，有强有弱。
+                一个CLASS里的每个instance，其实也是唯一的。对于他们来说，他们被放到这个class里，因为我们关注的需要（russell）。那么每个instance其实是有唯一的attributes和methods的列表的。
+                fixed effect背后的原因？
+                计量模型就是找共性，给出了一定的attributes（不要太多也不要太少的情况下）招共性。太多了多的话，个性太明显？因为样本就缩到很小了！
+                那么多于股票来说，就是找他们的共振属性，排序（我只需要离散），再配合基本面来选择网格买点！
+
+
+
 # Models_Results
 
 
