@@ -12,4 +12,6 @@ resources:
 
 # bayesian regression
 
+# Catboost
+- differences: https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
 
