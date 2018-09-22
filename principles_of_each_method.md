@@ -15,3 +15,9 @@ resources:
 # Catboost
 - differences: https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
 
+
+## Others..
+1. unitless..? standadization
+2. interaction
+3. multiple index.. (ref!!!)[single index model econometrics]
+
