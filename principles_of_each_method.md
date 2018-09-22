@@ -17,7 +17,7 @@ resources:
 
 
 ## Others..
-1. unitless..? standadization
+1. is the loss function unitless..? standadization?
 2. interaction
 3. multiple index.. [single index model econometrics](https://www.springer.com/cda/content/document/cda_downloaddocument/9780387928692-c1.pdf?SGWID=0-0-45-777205-p173900303)
 
