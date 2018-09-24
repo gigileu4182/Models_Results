@@ -11,9 +11,18 @@ resources:
 # naives bayes, bayes network
 
 # bayesian regression
+example bayesian regression in r
+- http://www-math.bgsu.edu/~albert/bcwr/
+- http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf
+
 
 # Catboost
 - differences: https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+
+## non linear regression..
+- heteroskedasticity econometrics regression in r, http://www.brodrigues.co/blog/2018-07-08-rob_stderr/
+- !!! influential points, multicolinearity, weight least squares. 
+  - https://onlinecourses.science.psu.edu/stat501/node/352/   (change 501. to 502 etc...... )
 
 
 ## Others..
