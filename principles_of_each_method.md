@@ -22,8 +22,10 @@ example bayesian regression in r
 ## non linear regression..
 - heteroskedasticity econometrics regression in r, http://www.brodrigues.co/blog/2018-07-08-rob_stderr/
 - !!! influential points, multicolinearity, weight least squares. 
-  - https://onlinecourses.science.psu.edu/stat501/node/352/   (change 501. to 502 etc...... )
-
+  - https://onlinecourses.science.psu.edu/stat501/node/352/   (change 501. to 502 etc...... ) (also check the **r software help**)
+  - stuctural/data based **multicolinearlity**.
+  - how to choose weights? http://www.markirwin.net/stat149/Lecture/Lecture3.pdf 
+  - categorical center mean outliers: https://epub.ub.uni-muenchen.de/2081/1/report008_statistics.pdf
 
 ## Others..
 1. is the loss function unitless..? standadization?
