@@ -8,7 +8,7 @@
   - **A weak learner** is defined to be a classifier that is only slightly correlated with the true classification (it can label examples better than random guessing). In contrast, **a strong learner** is a classifier that is arbitrarily well-correlated with the true classification. 
 
 - **stacking** is adding new features. but there is over-identification problem. you are staying just at the algorithm surface, not into the math. 
-  - bad example1: [http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/](kaggle stacking)
+  - bad example1: [kaggle stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 
 
 <h3>Machine learning methods </h3>
