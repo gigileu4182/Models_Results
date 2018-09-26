@@ -1,6 +1,33 @@
-## some are in evernote.
+# some are in evernote.
+## _______________
 
-# support vector machine.
+
+<h3> Machine learning Concepts</h3>
+//Common attributes and methods
+- weaker learner, stong learner? 
+  - **A weak learner** is defined to be a classifier that is only slightly correlated with the true classification (it can label examples better than random guessing). In contrast, **a strong learner** is a classifier that is arbitrarily well-correlated with the true classification. 
+
+- **stacking** is adding new features. but there is over-identification problem. you are staying just at the algorithm surface, not into the math. 
+  - bad example1: [http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/](kaggle stacking)
+
+
+<h3>Machine learning methods </h3>
+- Adaboost (instance)
+  - boosting
+  - convex
+- logitboost (instance)
+  - boosting
+  - convex
+- Brownboost (instance)
+  - non-convex
+
+
+
+<h3>Econometrics</h3>
+
+
+## ___
+<h4> support vector machine. </h4>
 
 keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?)
 
