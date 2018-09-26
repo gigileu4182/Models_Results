@@ -9,6 +9,9 @@
 
 - **stacking** is adding new features. but there is over-identification problem. you are staying just at the algorithm surface, not into the math. 
   - bad example1: [kaggle stacking](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+- Boosting and bagging
+  - !! good: [https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/](good example, differences between boosting and bagging)...... boosting is concentrating on the **not well classifiend points**, and giving more weight to the correct **learners (same model but different data inputs)**! 
+  - Boosting is tracking the learners. Boosting is sequential. Bagging is bootstraping with replacement, at each step, is parallel
 
 
 <h3>Machine learning methods </h3>
