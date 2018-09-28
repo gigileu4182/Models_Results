@@ -61,4 +61,6 @@ example bayesian regression in r
 1. is the loss function unitless..? standadization?
 2. interaction
 3. multiple index.. [single index model econometrics](https://www.springer.com/cda/content/document/cda_downloaddocument/9780387928692-c1.pdf?SGWID=0-0-45-777205-p173900303)
+- Books on machine learning, statistical learning, deep learning, reinforcement learning.
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 
