@@ -1,6 +1,4 @@
 # some are in evernote.
-## _______________
-
 
 ## <h3> ------------- Machine learning Concepts</h3>
 
@@ -25,6 +23,7 @@
   - Decision trees resources.
     - (1)
       * https://www.cs.indiana.edu/~predrag/classes/2018springb565/
+      * 
 
 - Adaboost (instance): boosting, convex
 - logitboost (instance): boosting, convex
