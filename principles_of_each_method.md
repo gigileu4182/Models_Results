@@ -2,7 +2,8 @@
 ## _______________
 
 
-<h3> Machine learning Concepts</h3>
+## <h3> ------------- Machine learning Concepts</h3>
+
 //Common attributes and methods
 - weaker learner, stong learner? 
   - **A weak learner** is defined to be a classifier that is only slightly correlated with the true classification (it can label examples better than random guessing). In contrast, **a strong learner** is a classifier that is arbitrarily well-correlated with the true classification. 
@@ -14,40 +15,41 @@
   - Boosting is tracking the learners. Boosting is sequential. Bagging is bootstraping with replacement, at each step, is parallel
 
 
-<h3>Machine learning methods </h3>
-- Adaboost (instance)
-  - boosting
-  - convex
-- logitboost (instance)
-  - boosting
-  - convex
-- Brownboost (instance)
-  - non-convex
+## <h3>---------------- Machine learning methods </h3>
+
+- naives bayes, bayes network
+
+- Tree based methods..... 
+  - random forest: https://machinelearningmastery.com/implement-random-forest-scratch-python/
+  - Xgboost: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+  - Decision trees resources.
+    - (1)
+      * https://www.cs.indiana.edu/~predrag/classes/2018springb565/
+
+- Adaboost (instance): boosting, convex
+- logitboost (instance): boosting, convex
+- Brownboost (instance): non-convex
+- Catboost
+  - differences: https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+- gradient boost from scratch
+  - https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
 
 
-
-<h3>Econometrics</h3>
-
-
-## ___
-<h4> support vector machine. </h4>
-
+- support vector machine.
 keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?)
-
 resources: 
 - 4-lectures.. http://www.robots.ox.ac.uk/~az/lectures/ml
 - simple explanations. https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
-# naives bayes, bayes network
-
-# bayesian regression
-example bayesian regression in r
-- http://www-math.bgsu.edu/~albert/bcwr/
-- http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf
 
 
-# Catboost
-- differences: https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+
+
+## Econometrics
+- bayesian regression
+  * example bayesian regression in r
+    - http://www-math.bgsu.edu/~albert/bcwr/
+    - http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf
 
 ## non linear regression..
 - heteroskedasticity econometrics regression in r, http://www.brodrigues.co/blog/2018-07-08-rob_stderr/
