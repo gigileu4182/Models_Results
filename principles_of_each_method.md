@@ -23,7 +23,12 @@
   - Decision trees resources.
     - (1)
       * https://www.cs.indiana.edu/~predrag/classes/2018springb565/
-      * 
+      * https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
+        ```
+        come on
+        ```
+
 
 - Adaboost (instance): boosting, convex
 - logitboost (instance): boosting, convex
