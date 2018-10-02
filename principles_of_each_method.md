@@ -16,7 +16,11 @@
 ## <h3>---------------- Machine learning methods </h3>
 
 - **naives bayes**, bayes network
-  - independence assumption?
+  - independence assumption? TO REDUCE computational...?
+  - EM algorithm..
+  - map, Maximum a posteriori estimation estimate
+  - continous, discrete..
+  
 
 - support vector machine.
   - keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?) 
