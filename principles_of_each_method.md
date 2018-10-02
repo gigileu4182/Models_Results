@@ -17,6 +17,13 @@
 
 - naives bayes, bayes network
 
+- support vector machine.
+  - keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?) 
+  - resources:
+    - kws: support vector machine from scratch --##-- (find the `symbolic` optimization)(http://ecomunsing.com/build-your-own-support-vector-machine)
+    - 
+
+
 - Tree based methods..... 
   - random forest: https://machinelearningmastery.com/implement-random-forest-scratch-python/
   - Xgboost: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
@@ -39,9 +46,6 @@
   - https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
 
 
-- support vector machine.
-keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?)
-resources: 
 - 4-lectures.. http://www.robots.ox.ac.uk/~az/lectures/ml
 - simple explanations. https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
