@@ -15,7 +15,8 @@
 
 ## <h3>---------------- Machine learning methods </h3>
 
-- naives bayes, bayes network
+- **naives bayes**, bayes network
+  - independence assumption?
 
 - support vector machine.
   - keywords: kernels (dual problem), soft margin (), regularization (should we strictly classify?), gamma (should we consider all the points?) 
@@ -50,6 +51,8 @@
 - simple explanations. https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
 
+- **deep learning latent variable** (https://ermongroup.github.io/cs228-notes/extras/readings/)
+  - this site is very good, because I could also learn how to build websites~~
 
 
 
