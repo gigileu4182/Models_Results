@@ -15,11 +15,13 @@
 
 ## <h3>---------------- Machine learning methods </h3>
 
-- **naives bayes**, bayes network
+- **naives bayes**, bayes network (under construction! local lyx)
+  - terminlogogies.
   - independence assumption? TO REDUCE computational...?
   - EM algorithm..
-  - map, Maximum a posteriori estimation estimate
+  - map, Maximum a posteriori estimation estimate (a limit of Bayes estimators". )
   - continous, discrete..
+    - continous... **best:: Naive Bayes Classifiers that Perform Well with Continuous Variables**
   
 
 - support vector machine.
@@ -81,3 +83,10 @@
 - Books on machine learning, statistical learning, deep learning, reinforcement learning.
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 
+
+## Missing values..
+1. Terminlogies
+  - Understanding. MCAR, MAR, MNAR. you may wonder why the definitions look so abstract and somehow indistinguishable.. well, because in reality, the sitiation is very complicated, and you do not want to make it wrong. We start with an example.
+  
+  - Lising deletion. (). pairewise deletion (). (regression) (stochastic) , multiple imputation...
+  
