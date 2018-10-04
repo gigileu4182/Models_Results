@@ -56,6 +56,8 @@
 - 4-lectures.. http://www.robots.ox.ac.uk/~az/lectures/ml
 - simple explanations. https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
+- lasso model from scratch:
+  - https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
 
 - **deep learning latent variable** (https://ermongroup.github.io/cs228-notes/extras/readings/)
   - this site is very good, because I could also learn how to build websites~~
