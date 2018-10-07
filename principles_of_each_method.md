@@ -42,6 +42,7 @@
         ```
         come on
         ```
+    - (2) !!!!! https://freakonometrics.hypotheses.org/52776
 
 
 - Adaboost (instance): boosting, convex
@@ -58,6 +59,7 @@
 
 - lasso model from scratch:
   - https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+  - ！！！！！ https://freakonometrics.hypotheses.org/52776
 
 - **deep learning latent variable** (https://ermongroup.github.io/cs228-notes/extras/readings/)
   - this site is very good, because I could also learn how to build websites~~
