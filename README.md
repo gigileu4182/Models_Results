@@ -1,5 +1,7 @@
 ## 原则
 
+behavioral functions..
+computation graph to combine. Each branch is a different channel.
 问题?和**预期**不符，outliers?
 - weak correlation, why? 度degree，质quality
 
